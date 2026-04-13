@@ -41,7 +41,7 @@ I just found [these](https://www.aliexpress.us/item/3256808473751203.html) that 
 4. Buck Converter
     I found [this one](https://www.aliexpress.us/item/3256807183204284.html) with a relatively small form factor. It steps down from 12v to 5v, perfect for what I need
 5. USB-C
-    Great Scott covered [these](https://www.aliexpress.us/item/3256805275538893.html) in one of these videos. They honestly look amazing and I know exactly how I'll incorporate it into this project. I'll need resistors for it though
+    Great Scott covered [these](https://www.aliexpress.us/item/3256805275538893.html) in one of these videos. They honestly look amazing and I know exactly how I'll incorporate it into this project.
     ![image](/journal/assets/USBC_1.png)
 
 I think that's it! I'll create the full BOM right now and I should be able to start 3D modeling the case. 
@@ -49,3 +49,14 @@ I think that's it! I'll create the full BOM right now and I should be able to st
 Is it over 40 dollars? Yes. Is it cooler than a 40 dollar one? Yes. I also own most of the parts already. After subtracting everything, it'll only cost me $26.43 USD. It also comes with extra parts. Since it's getting late and I have school tomorrow, I'll model the case tomorrow. 
 
 For now, I'll just work on organizing this repository.
+
+## April 13th, 2026 - Monday
+After rewatching the USB-C port segment on Great Scott's youtube video, I found out that I'll need resistors to pull the correct current from the power supply. However, on doing more research, using resistors only supplies 5v. To get 12v, I'll need a USB C decoy module. 
+
+Unfortunately, all the USB-C ports with the mounting plates don't have a PD chip, so I'll have to buy one without a mounting plate. 
+
+I found this one!
+
+https://www.aliexpress.us/item/3256810424345892.html
+
+It has a small footprint so it shouldn't bulk up my fume extractor too much.
